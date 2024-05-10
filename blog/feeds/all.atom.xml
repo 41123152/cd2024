@@ -26,25 +26,27 @@
 
 
 &lt;h1&gt;今日課程內容&lt;/h1&gt;
-&lt;p&gt;運用OBS嘗試加入部分教學成果總結&lt;/p&gt;</content><category term="w8"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>w6課程 41123152</title><link href="./2024-Spring-w6-blog-tutorial-41123152.html" rel="alternate"></link><published>2024-03-29T11:00:00+08:00</published><updated>2024-05-03T06:14:18+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-29:./2024-Spring-w6-blog-tutorial-41123152.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程w6.&lt;/p&gt;
+&lt;p&gt;運用OBS嘗試加入部分教學成果總結&lt;/p&gt;</content><category term="w8"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>w6課程 41123152</title><link href="./2024-Spring-w6-blog-tutorial-41123152.html" rel="alternate"></link><published>2024-03-29T11:00:00+08:00</published><updated>2024-05-10T07:14:30+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-29:./2024-Spring-w6-blog-tutorial-41123152.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程w6.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程w6.&lt;/p&gt;
 
 
 &lt;h1&gt;今日課程內容&lt;/h1&gt;
 &lt;p&gt;UpDate 了小組中自己的子模組 且學習如何用branch 協同更新&lt;/p&gt;
 &lt;p&gt;方法如下:
-1.   在 github main create new branch 和 branch name 41123130 //創建個人分支
-2.   create a codspeace on 41123130 
-3.   open codspeace
-4.   chmod u+x init_replit 並./init_replit
-5.   git submodule update --init //將 git submodule init 和 git submodule update 合併成一步
-6.   cd 41123130 //進入41123130的子模組
-7.   git pull origin main //從遠端更新程式碼 並將 main 合併至分支41123130
-8.   cd ..//退到大廳
-9.   git add .(加入更改) git commit -m " "(命名這次更改) git push(推到倉儲)
-10. git merge //合併branch 41123130 至 main
-11. 在github確定沒衝突的合併後送出請求,並合併branch
-12. 合併後的branch 只要沒有與main有衝突的合併應該可以一直用&lt;/p&gt;</content><category term="w6"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>w5課程 41123152</title><link href="./2024-Spring-w5-blog-tutorial-41123152.html" rel="alternate"></link><published>2024-03-22T11:00:00+08:00</published><updated>2024-05-03T06:20:55+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-22:./2024-Spring-w5-blog-tutorial-41123152.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程w5.&lt;/p&gt;
+1.   在 github main create new branch 和 branch name 41123152 //創建個人分支&lt;p&gt;
+2.   create a codspeace on 41123152&lt;p&gt;
+3.   open codspeace&lt;p&gt;
+4.   chmod u+x init_replit 並./init_replit&lt;p&gt;
+5.   git submodule update --init //將 git submodule init 和 git submodule update 合併成一步&lt;p&gt;
+6.   cd 41123152 //進入41123152的子模組&lt;p&gt;
+7.   git pull origin main //從遠端更新程式碼 並將 main 合併至分支41123152&lt;p&gt;
+8.   cd ..//退到大廳&lt;p&gt;
+9.   git add .(加入更改)&lt;p&gt;
+10.  git commit -m " "(命名這次更改)&lt;p&gt;
+11.  git push(推到倉儲)&lt;p&gt;
+12.  git merge //合併branch 41123152 至 main&lt;p&gt;
+13.  在github確定沒衝突的合併後送出請求,並合併branch&lt;p&gt;
+14.  合併後的branch 只要沒有與main有衝突的合併應該可以一直用&lt;p&gt;&lt;/p&gt;</content><category term="w6"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>w5課程 41123152</title><link href="./2024-Spring-w5-blog-tutorial-41123152.html" rel="alternate"></link><published>2024-03-22T11:00:00+08:00</published><updated>2024-05-03T06:20:55+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-22:./2024-Spring-w5-blog-tutorial-41123152.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程w5.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程w5.&lt;/p&gt;
 
 
